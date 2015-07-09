@@ -7,3 +7,9 @@ testsuite-out
 build/*
 s3cmd.spec
 .idea
+*.tar.gz
+lib/
+include/
+bin/
+.Python
+*.egg-info/
